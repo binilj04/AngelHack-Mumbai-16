@@ -11,12 +11,16 @@ db = MySQLdb.connect("localhost","root","codio","TESTDB" )
 cursor = db.cursor()
 
 # Drop table if it already exist using execute() method.
-cursor.execute("DROP TABLE IF EXISTS RefTable")
+cursor.execute("DROP TABLE IF EXISTS MainTable")
 
 # Create table as per requirement
-sql = """CREATE TABLE RefTable (
-         user  VARCHAR(20) NOT NULL,
-         file  VARCHAR(50),
+sql = """CREATE TABLE MainTable (
+         jobid  VARCHAR(20) NOT NULL,
+         filepath  VARCHAR(50),
+         touch INT,
+         url VARCHAR(50),
+         refid VARCHAR(50),
+         jobstat INT,
          ref VARCHAR(50) )"""
 
 cursor.execute(sql)
