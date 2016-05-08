@@ -21,7 +21,7 @@ sql = """CREATE TABLE MainTable (
          url VARCHAR(50),
          refid VARCHAR(50),
          jobstat INT,
-         ref VARCHAR(50) )"""
+         ofpath VARCHAR(50) )"""
 
 cursor.execute(sql)
 
