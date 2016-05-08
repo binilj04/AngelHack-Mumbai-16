@@ -14,5 +14,5 @@
  
 ## Feature Work
  
- We plan to develop this that we can improve the understanding of the video. And, along with it we can do lot of interactive things and can provide the live stream interaction for live background video. The analytics module will give better result with the API of HPE Haven OnDemand. Thanks for fast development. And, we'll add few more features into it. Also, based on the video, it will calculate the confidence level and do more of congnitive computing.
+ We plan to develop this and improve on underderstanding the content of the videos using AI or Machine Learning plateforms.This will enable people to creat rich video content in a matter of minutes.  And, along with it we can do lot of interactive things and can provide the live stream interaction for live sounds in the background. The analytics module is HPE Haven OnDemand is a very powerful tool and the API's were very easy to work with which enables fast and reliable development. And, we'll add few more power into this project by explaoring other api's that will help us understand the content of the video better and hence provide an apt background music . Also, based on the video, it will calculate the confidence level and do more of congnitive computing.
  
