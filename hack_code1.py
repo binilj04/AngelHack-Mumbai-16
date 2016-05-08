@@ -1,3 +1,5 @@
+# This is the API from the HPE Haven OnDemand
+
 from havenondemand.hodclient import *
 
 hodClient = HODClient("f06a8c54-6bac-4080-b983-bb6b3e88ee82", "v1")
