@@ -12,3 +12,7 @@
 
  Kindly, read this short description for contributing to this repository. You can fork the project and make changes and submit the pull request or if any bug, submit the issue, we'll fix it soon. Understand the code. Pull request are welcome. Any suggestion is appreciated. Cheers..!!!
  
+## Feature Work
+ 
+ We plan to develop this that we can improve the understanding of the video. And, along with it we can do lot of interactive things and can provide the live stream interaction for live background video. The analytics module will give better result with the API of HPE Haven OnDemand. Thanks for fast development. And, we'll add few more features into it. Also, based on the video, it will calculate the confidence level and do more of congnitive computing.
+ 
