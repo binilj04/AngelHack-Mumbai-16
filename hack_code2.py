@@ -1,3 +1,5 @@
+# This is the main file which communicates with the database and get the reference from API from the HPE Haven OnDemand
+
 import MySQLdb
 import subprocess
 from havenondemand.hodclient import *
